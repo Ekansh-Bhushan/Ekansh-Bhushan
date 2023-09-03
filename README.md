@@ -16,6 +16,7 @@ A hard working boy who enjoys good humour & coding.😉😉
 ### 📫 How can you reach me?
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ekansh-Bhushan)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://instagram.com/ekansh__bhushan)
 
 
 
