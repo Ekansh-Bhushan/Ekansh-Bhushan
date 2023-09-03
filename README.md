@@ -44,7 +44,7 @@ A hard working boy who enjoys good humour & coding.😉😉
 <h2 align="center">📊 My Github Stats<h2>
 <div>
  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Ekansh-Bhushan&theme=tokyonight&border_radius=10" alt="Ekansh Bhushan" height="250px" width="47%" />
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ekansh-Bhushan6&show_icons=true&theme=tokyonight&border_radus=10" height="255px" width="47%"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ekansh-Bhushan&show_icons=true&theme=tokyonight&border_radus=10" height="255px" width="47%"/>
 <div>
   </br>
   
