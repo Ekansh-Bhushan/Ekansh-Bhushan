@@ -1,4 +1,4 @@
-### Hey , I'm [Ekansh Bhushan!](https://suraj-996.github.io) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
+### Hey , I'm [Ekansh Bhushan!](ekanshbhushan.in) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
 ###  🌱 I’m from Delhi, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
 ###  🌱 I’m currently learning ...
