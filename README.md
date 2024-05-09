@@ -42,6 +42,12 @@ You can find more details about my projects in the [Projects](https://github.com
 ### Used Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,netlify,heroku,vscode,sts)]()
+### 📫 How can you reach me?
+
+- Github: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ekansh-Bhushan)
+- Instagram: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://instagram.com/ekansh__bhushan)
+- LinkedIn: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/ekansh_bhushan)
+- Email: [ekanshbushan2k22@gmail.com](mailto:ekanshbushan2k22@gmail.com)
 
 
 <br />
@@ -60,9 +66,3 @@ You can find more details about my projects in the [Projects](https://github.com
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekansh-Bhushan&theme=tokyonight" alt="Ekansh Bhushan" height="260px" width="25%" />
 <!--  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Ekansh-Bhushan&theme=tokyonight&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/> -->
 <div>
-### 📫 How can you reach me?
-
-- Github: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ekansh-Bhushan)
-- Instagram: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://instagram.com/ekansh__bhushan)
-- LinkedIn: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/ekansh_bhushan)
-- Email: [ekanshbushan2k22@gmail.com](mailto:ekanshbushan2k22@gmail.com)
