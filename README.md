@@ -58,19 +58,5 @@ A hard working boy who enjoys good humour & coding.😉😉
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Ekansh-Bhushan&theme=tokyonight&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/>
 <div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekansh-bhushan&label=Profile%20views&color=0e75b6&style=flat" alt="ekansh-bhushan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekansh-bhushan" alt="ekansh-bhushan" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekansh-bhushan&show_icons=true&locale=en&layout=compact" alt="ekansh-bhushan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekansh-bhushan&show_icons=true&locale=en" alt="ekansh-bhushan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ekansh-bhushan&" alt="ekansh-bhushan" /></p>
-
 
  ![](./profile-3d-contrib/profile-night-green.svg)
