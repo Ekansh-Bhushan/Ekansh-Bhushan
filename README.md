@@ -11,7 +11,7 @@ I'm currently pursuing a B.Tech in Computer Science Engineering at Delhi Technol
 
 I'm also the President of the SKILLOP society(Formerly StartuoX), where I manage various tech-related activities, events, and mentorship programs for juniors.
 
-###  🌱 I’m from Delhi, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
+##  🌱 I’m from Delhi, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
 
 
 ## ⚡ One line that describes me best? 
@@ -58,5 +58,3 @@ A hard working boy who enjoys good humour & coding.😉😉
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Ekansh-Bhushan&theme=tokyonight&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/>
 <div>
 
-
- ![](./profile-3d-contrib/profile-night-green.svg)
