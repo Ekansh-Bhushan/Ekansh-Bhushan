@@ -1,10 +1,4 @@
-### Hey , I'm [Ekansh Bhushan!](ekanshbhushan.in) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
-
-# Welcome to [Ekansh Bhushan's](ekanshbhushan.in) GitHub Profile! 👋
-
-###  🌱 I’m from Delhi, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
-###  🌱 I’m currently learning ...
-- Java, Aspiring Java Developer
+# Welcome to [Ekansh Bhushan's](ekanshbhushan.in) GitHub Profile! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
 ## About Me
 
@@ -17,9 +11,12 @@ I'm currently pursuing a B.Tech in Computer Science Engineering at Delhi Technol
 
 I'm also the President of the SKILLOP society(Formerly StartuoX), where I manage various tech-related activities, events, and mentorship programs for juniors.
 
+###  🌱 I’m from Delhi, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
 
-### ⚡ One line that describes me best? 
+
+## ⚡ One line that describes me best? 
 A hard working boy who enjoys good humour & coding.😉😉
+
 
 ### 📫 How can you reach me?
 
@@ -57,11 +54,11 @@ A hard working boy who enjoys good humour & coding.😉😉
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekansh-Bhushan&theme=tokyonight" alt="Samruddhi" height="260px" width="25%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekansh-Bhushan&theme=tokyonight" alt="Ekansh Bhushan" height="260px" width="25%" />
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Ekansh-Bhushan&theme=tokyonight&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/>
 <div>
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-![Profile views](https://gpvc.arturio.dev/Ekanhs-Bhushan)  
+![Profile views](https://gpvc.arturio.dev/Ekansh-Bhushan)  
 
  ![](./profile-3d-contrib/profile-night-green.svg)
