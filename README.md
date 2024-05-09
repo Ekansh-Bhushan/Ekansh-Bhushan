@@ -1,13 +1,21 @@
 ### Hey , I'm [Ekansh Bhushan!](ekanshbhushan.in) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
+# Welcome to [Ekansh Bhushan's](ekanshbhushan.in) GitHub Profile! 👋
+
 ###  🌱 I’m from Delhi, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
 ###  🌱 I’m currently learning ...
 - Java, Aspiring Java Developer
 
-###  🌱 What do I do?
-- ✔️ Though I have completed my 12th, I aspire to work as a programmer.
+## About Me
 
-- ✔️ I'm a fast learner looking for interesting career opportunities as a web developer. 
+I'm currently pursuing a B.Tech in Computer Science Engineering at Delhi Technological University (DTU) and actively involved in various areas of tech, including:
+
+- Data Structures and Algorithms (DSA)
+- Web Development (Full Stack)
+- Artificial Intelligence and Machine Learning (AIML)
+- Quantum Computing (Research)
+
+I'm also the President of the SKILLOP society(Formerly StartuoX), where I manage various tech-related activities, events, and mentorship programs for juniors.
 
 
 ### ⚡ One line that describes me best? 
@@ -17,7 +25,7 @@ A hard working boy who enjoys good humour & coding.😉😉
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ekansh-Bhushan)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://instagram.com/ekansh__bhushan)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/ekansh_bhushan)
 
 
 ### Familiar Tech Stack:
