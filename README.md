@@ -17,7 +17,7 @@ I'm also the President of the SKILLOP society(Formerly StartuoX), where I manage
 ## ⚡ One line that describes me best? 
 A hard working boy who enjoys good humour & coding.😉😉
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Ekansh-Bhushan?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Ekansh-Bhushan?ext=heatmap&ext=contest)
 
 <!--
 ## Projects
