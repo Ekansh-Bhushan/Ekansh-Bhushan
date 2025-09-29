@@ -9,13 +9,12 @@ I'm currently pursuing a B.Tech in Computer Science Engineering at Delhi Technol
 - Artificial Intelligence and Machine Learning (AIML)
 - Quantum Computing (Research)
 
-I'm also the President of the SKILLOP society(Formerly StartuoX), where I manage various tech-related activities, events, and mentorship programs for juniors.
 
 ##  🌱 I’m from Delhi, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
 
 
 ## ⚡ One line that describes me best? 
-A hard working boy who enjoys good humour & coding.😉😉
+A hard working boy who enjoys research & coding.😉😉
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Ekansh-Bhushan?ext=heatmap&ext=contest&theme=unicorn)
 
