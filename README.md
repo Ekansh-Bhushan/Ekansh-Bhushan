@@ -1,69 +1,85 @@
-# Welcome to [Ekansh Bhushan's](ekanshbhushan.in) GitHub Profile! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
+# 🚀 Ekansh Bhushan  
+**Software Developer • Problem Solver • ML/AI & Systems Enthusiast**  
+[Portfolio](https://ekanshbhushan.in) • [LinkedIn](https://www.linkedin.com/in/ekansh-bhushan/) • [LeetCode](https://leetcode.com/u/Ekansh-Bhushan/) • [Email](mailto:ekanshbhushan2k22@gmail.com)
 
-## About Me
+---
 
-I'm currently pursuing a B.Tech in Computer Science Engineering at Delhi Technological University (DTU) and actively involved in various areas of tech, including:
+## 👨‍💻 About Me  
+I build systems that solve real problems — from scalable software to AI-powered automation.  
+Currently pursuing **B.Tech in Computer Engineering at DTU**, working across:
 
-- Data Structures and Algorithms (DSA)
-- Web Development (Full Stack)
-- Artificial Intelligence and Machine Learning (AIML)
-- Quantum Computing (Research)
+- Software Engineering  
+- AI/ML & Computer Vision  
+- Full-Stack Development (React + Node)  
+- Cybersecurity & Monitoring Systems  
+- Competitive Programming (1600+ rated & 1000+ problems solved)
 
+---
 
-##  🌱 I’m from Delhi, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
+## 🔥 Experience  
 
+### 🛡️ **Software Development Engineering Intern — Delhi Police (2024)**  
+Built **ConstableOnPatrol**, a deployment & accountability software adopted by **100+ officers**:  
+- Consolidated crime logs, PCR calls & duty charts into a unified dashboard  
+- Analyzed crime datasets with senior officials for operational planning  
+- Improved field coordination through real-time data visibility  
 
-## ⚡ One line that describes me best? 
-A hard working boy who enjoys research & coding.😉😉
+---
+
+## 🧠 Featured Projects  
+
+### **FIAMS — File Integrity & Access Monitoring System**  
+- Detects unauthorized file changes using SHA-256 hashing  
+- Real-time alerting + full log trails  
+- Streamlit dashboard for security monitoring  
+
+---
+
+### **HSRP Number Plate Tracking (YOLOv8 + OCR)**  
+- AI system to detect & extract plates at **91% accuracy**  
+- Python-based OCR pipeline (PyTesseract)  
+- Processes 2000+ images + 15 FPS real-time stream  
+
+---
+
+### **Temperature-Based Fan Speed Controller (Arduino)**  
+- LM35-based temperature monitoring  
+- PWM-based fan control  
+- 16x2 LCD display with status indicators  
+
+---
+
+## 🏆 Achievements  
+- **Top 20% LeetCode** (Rating: 1632+)  
+- **1000+ coding problems solved**  
+- **3rd place** out of 2000+ at Innovate NSUT Hackathon  
+- **Rank 17 All India** — MNIT Jaipur Hackathon  
+- **Finalist** — IIT Bombay TechFest Hackathon  
+
+---
+
+## 🧰 Tech Stack  
+
+**Languages:** C, C++, Python, JavaScript  
+**Core CS:** DSA, OOP, OS, DBMS, CN  
+**Web:** React, Node.js, Express, MongoDB  
+**AI/ML:** YOLOv8, PyTesseract, Transformers  
+**Tools:** Git, Vercel, Render, Linux, Postman  
+
+---
+
+## 🌐 Connect With Me  
+- **LinkedIn:** https://www.linkedin.com/in/ekansh-bhushan/  
+- **LeetCode:** https://leetcode.com/u/Ekansh-Bhushan/  
+- **Portfolio:** https://ekanshbhushan.in  
+- **Email:** ekanshbhushan2k22@gmail.com  
+
+---
+
+## 📊 Coding Activity  
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Ekansh-Bhushan?ext=heatmap&ext=contest&theme=unicorn)
 
-<!--
-## Projects
-
-Here are some of the projects I've worked on:
-
-- **Number Plate Tracking**: Brief description.
-- **YOLO (You Only Live Once)**: .
-- **Project Name**: Brief description.
-
-You can find more details about my projects in the [Projects](https://github.com/Ekansh-Bhushan/) section.-->
-
-## Familiar Tech Stack:
-
-<!-- coding boy -->
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
-
-<!-- language -->
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,js,html,css)]()
-
-<br/>
-
-### Used Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,heroku,vscode,sts)]()
-### 📫 How can you reach me?
-
-- Github: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Ekansh-Bhushan)
-- Instagram: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://instagram.com/ekansh__bhushan)
-- LinkedIn: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://linkedin.com/ekansh_bhushan)
-- Email: [ekanshbushan2k22@gmail.com](mailto:ekanshbushan2k22@gmail.com)
-
-
-<br />
-<br />
-<br />
-<br />
-<br><br>
-<h2 align="center">📊 My Github Stats<h2>
-<div>
- <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Ekansh-Bhushan&theme=tokyonight&border_radius=10" alt="Ekansh Bhushan" height="250px" width="47%" />
-<!--  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ekansh-Bhushan&show_icons=true&theme=tokyonight&border_radus=10" height="255px" width="47%"/> -->
-<div>
-  </br>
-  
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekansh-Bhushan&theme=tokyonight" alt="Ekansh Bhushan" height="260px" width="25%" />
-<!--  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Ekansh-Bhushan&theme=tokyonight&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/> -->
-<div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekansh-Bhushan&theme=tokyonight" height="200"/>
+</div>
