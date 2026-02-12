@@ -1,6 +1,8 @@
 # 💫 About Me:
 Final-year Computer Science student focused on building production-grade web systems and scalable backend architectures. Currently focusing on android Development in kotlin with an emphasis on system design, performance, and real-world applicability.
 
+![coding]](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ekansh__bhushan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ekansh-bhushan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ekanshbhushan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ekanshbhushan2k22@gmail.com) 
