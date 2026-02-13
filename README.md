@@ -3,6 +3,24 @@ Final-year Computer Science student focused on building production-grade web sys
 
 ![coding](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
 
+<h2>✨ About Me</h2>
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <div style="width: 55%;">
+
+Final-year Computer Science student focused on building production-grade web systems and scalable backend architectures.  
+
+Currently focusing on Android Development in Kotlin with an emphasis on system design, performance, and real-world applicability.
+
+  </div>
+
+  <div style="width: 40%; text-align: right;">
+    <img src="YOUR_IMAGE_LINK_HERE" width="400"/>
+  </div>
+
+</div>
+
 
 
 ## 🌐 Socials:
