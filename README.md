@@ -123,7 +123,7 @@ Architecting scalable systems with caching strategies, database optimization, an
 
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ekansh-Bhushan&theme=dark&hide_border=false" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ekansh-Bhushan&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 
