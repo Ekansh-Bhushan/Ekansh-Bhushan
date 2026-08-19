@@ -3,7 +3,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
 
-Final-year Computer Science student building production-grade systems, not classroom demos.
+Graduate Computer Science student building production-grade systems, not classroom demos.
 
 Focused on scalable backend architecture, clean system design, and writing code that survives real traffic, real users, and real constraints.
 
